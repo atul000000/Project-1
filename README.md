@@ -1,4 +1,4 @@
 # Projects
-Bank Finance Analytics
+Bank Finance Analytics,
 Hospitality Finance
 
