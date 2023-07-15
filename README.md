@@ -1,2 +1,4 @@
-# Project-1
+# Projects
 Bank Finance Analytics
+Hospitality Finance
+
